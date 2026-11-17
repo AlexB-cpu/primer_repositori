@@ -16,3 +16,6 @@ Instal·lar Git al nostre ordinador i configurar correctament el nom d'usuari i 
 ```bash
 git config --global user.name "Alex"
 git config --global user.email "ukfinds99@gmail.com"
+## Comprovacions
+- [ ] Git està instal·lat correctament (`git --version`)
+- [ ] El nom d'usuari i correu estan guardats (`git config --list`)
