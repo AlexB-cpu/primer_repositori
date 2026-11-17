@@ -7,7 +7,7 @@ Instal·lar Git al nostre ordinador i configurar correctament el nom d'usuari i 
 - Ordinador amb Windows/Linux/macOS
 - Connexió a internet
 - Visual Studio Code
-
+- [Guia oficial de Git](https://git-scm.com/doc)
 ## Procediment
 1. Descarregar i instal·lar Git per a Windows des de la pàgina oficial.
 2. Obrir la terminal integrada de Visual Studio Code.
@@ -19,3 +19,4 @@ git config --global user.email "ukfinds99@gmail.com"
 ## Comprovacions
 - [ ] Git està instal·lat correctament (`git --version`)
 - [ ] El nom d'usuari i correu estan guardats (`git config --list`)
+git add fitxa-tecnica.md
